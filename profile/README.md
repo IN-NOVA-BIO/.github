@@ -1,7 +1,3 @@
-# .github
-# IN-NOVA BIO
----
-
 ## 🧠 Sobre nosotros
 IN-NOVA BIO es una organización enfocada en el desarrollo de tecnología médica accesible, orientada a mejorar la calidad de vida de personas con discapacidad mediante soluciones innovadoras basadas en bioseñales.
 
