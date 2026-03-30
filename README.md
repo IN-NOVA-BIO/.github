@@ -1,8 +1,5 @@
 # .github
 # IN-NOVA BIO
-
-**De señales a palabras, de silencio a autonomía.**
-
 ---
 
 ## 🧠 Sobre nosotros
